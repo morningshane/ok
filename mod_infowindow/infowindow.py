@@ -76,7 +76,7 @@ class InfoWindow():
 
         return str
 
-    def display(self, angle):
+    def display(self, angle ,image):
         self.image = self.image.rotate(angle)
         self.epd.display(self.epd.getbuffer(self.image))
         
