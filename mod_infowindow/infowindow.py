@@ -2,7 +2,7 @@ from driver import epd7in5b
 from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
-import epdconfig
+from driver import epdconfig
 import os, sys
 
 class InfoWindow():
