@@ -29,7 +29,10 @@
 
 
 import logging
-from . import epdconfig
+import epdif
+import RPi.GPIO as GPIO
+from PIL import Image
+import epdconfig
 
 # Display resolution
 EPD_WIDTH       = 640
