@@ -1,0 +1,12 @@
+{
+    "general": {
+        "rotation": 180
+    },
+    "todo": "4b21447369cd11bdfb05ee6ee73987967e37a9e2",
+    "calendar": "AIzaSyCBTygfqV5nag9RmP1ETAVEWITGuvSlupM",
+    "weather": {
+        "api_key": "63280d5284889228f2ecb45a981563b2",
+        "city": "Melbourne,AU",
+        "units": "metric"
+    }
+}
